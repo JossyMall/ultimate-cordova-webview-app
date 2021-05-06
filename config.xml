@@ -7,6 +7,8 @@
     <author email="nioperas06@gmail.com" href="http://dusthq.com">
         DustHQ
     </author>
+    <!-- Define app icon for each platform. -->
+    <icon src="icon.png" />
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
